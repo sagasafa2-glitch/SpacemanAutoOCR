@@ -31,6 +31,8 @@ android.archs = arm64-v8a
 
 android.allow_backup = False
 
+p4a.branch = develop
+
 [buildozer]
 
 log_level = 2
