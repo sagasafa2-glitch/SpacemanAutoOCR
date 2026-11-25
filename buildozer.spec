@@ -21,7 +21,7 @@ orientation = portrait
 
 fullscreen = 0
 
-android.permissions = INTERNET
+android.permissions = INTERNET,FOREGROUND_SERVICE,FOREGROUND_SERVICE_MEDIA_PROJECTION
 
 android.api = 35
 
