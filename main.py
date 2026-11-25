@@ -1,5 +1,6 @@
 
 from kivy.app import App
+from ocr_reader import extrack_multiplier
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.label import Label
 from kivy.uix.button import Button
