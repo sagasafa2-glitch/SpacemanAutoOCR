@@ -9,6 +9,8 @@ package.domain = org.spacemanautoocr
 
 source.dir = .
 
+android.add_src = android/src/main/java
+
 source.include_exts = py,png,jpg,kv,atlas
 
 version = 1.0.0
