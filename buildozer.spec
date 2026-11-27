@@ -11,8 +11,6 @@ source.dir = .
 
 android.add_src = android/src/main/java
 
-android.extra_manifest_application_arguments = service_manifest.xml
-
 source.include_exts = py,png,jpg,kv,atlas
 
 version = 1.0.0
